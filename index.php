@@ -125,12 +125,12 @@
     <div class="my_container">
       <h2>About me/</h2>
       <div class="row">
-        <div class="col-md-4">
+        <div class="col-xs-4 col-md-4">
           <div style="text-align:right;">
             <img src="images/avatar.png" class="img-circle my_avatar">
           </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-xs-6 col-md-6">
           <p style="text-align:left">Hello, I am Thereza. <br>
           I am in love with programming ever since I stumbled upon codecademy last summer.<br>
           My life has since taken a very unexpected turn. I left my career in humantities and I want to make a living from programming. <br>
@@ -144,12 +144,12 @@
   <div id="page5">
     <a id="contact"></a>
     <div class="my_container">
-      <div class="col-md-4"><h2>Contact/</h2></div>
-      <div class="col-md-6">
+      <div class="col-xs-3 col-md-4"><h2>Contact/</h2></div>
+      <div class="col-xs-6 col-md-6">
         <button class="btn btn-success btn-lg"><a href="http://www.linkedin.com/in/thereza">LinkedIn</a></button>
         <button class="btn btn-success btn-lg"><a href="https://github.com/therezajs">Github</a></button>
       </div>
-      <div class="col-md-2">
+      <div class="col-xs-3 col-md-2">
         <a href="#home"><span class="glyphicon glyphicon-chevron-up"></span> back up</a>
       </div>
     </div>
