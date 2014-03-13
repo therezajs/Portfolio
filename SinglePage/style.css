@@ -51,8 +51,9 @@ button a:hover{
 }
 #page1 {
 	height: 450px;
+	color: white;
 	background-color: rgba(90,191,225,0.5);
-	text-shadow: 0 0 2px #05B3F2;
+	text-shadow: 0 0 2px #3F869E;
 	max-width: 70%;
 	margin: 0 auto;
 	font-family: "Open Sans", "Helvetica Neue", Helvetica, serif;
@@ -122,4 +123,9 @@ footer a:hover {
 }
 .height-sm span {
 	padding-top: 5px;
+}
+.my_row {
+	background-color: #E1E1E1;
+	margin-left: -50px !important;
+	margin-right: -50px !important;
 }

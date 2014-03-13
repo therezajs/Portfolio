@@ -2,12 +2,13 @@
 
 <div class="my_container" id="my_container">
   <div id="page1">
-      <div class="my_container transbox">
-        <h3><span class="courier">&lt;TheCoder&gt;</span> Hello, I am <br><span id="theCoder">The Coder</span><br> and I love what I do <span class="courier">&lt;/TheCoder&gt;</span></h3>
+    <a id="home"></a>
+    <div class="my_container transbox">
+      <h3><span class="courier">&lt;TheCoder&gt;</span> Hello, I am <br><span id="theCoder">The Coder</span><br> and I love what I do <span class="courier">&lt;/TheCoder&gt;</span></h3>
 
-        <h2>If you're looking for a junior web developer, you're in the right place.</h2>
+      <h2>If you're looking for a junior web developer, you're in the right place.</h2>
 
-      </div>
+    </div>
   </div>
 
   <div id="page2">
@@ -27,7 +28,7 @@
 
         </div>
       </div>
-      <div class="row">
+      <div class="row my_row">
         <h3 class="title">Kiseki</h3>
         <div class="col-md-1"></div>
         <div class="col-md-5">
@@ -139,9 +140,12 @@
     <a id="contact"></a>
     <div class="my_container">
       <div class="col-md-4"><h2>Contact/</h2></div>
-      <div class="col-md-8">
+      <div class="col-md-6">
         <button class="btn btn-success btn-lg"><a href="http://www.linkedin.com/in/thereza">LinkedIn</a></button>
         <button class="btn btn-success btn-lg"><a href="https://github.com/therezajs">Github</a></button>
+      </div>
+      <div class="col-md-2">
+        <a href="#home"><span class="glyphicon glyphicon-chevron-up"></span> back up</a>
       </div>
     </div>
   </div>
