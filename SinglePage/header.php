@@ -30,9 +30,9 @@
       </div>
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav navbar-right">
-          <li><a href="#about">About/</a></li>
           <li><a href="#current_projects">Latest work/</a></li>
           <li><a href="#mini_projects">Mini projects/</a></li>
+          <li><a href="#about">About me/</a></li>
           <li><a href="#contact">Contact/</a></li>
         </ul>
       </div><!-- /.navbar-collapse -->
