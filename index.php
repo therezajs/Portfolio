@@ -14,7 +14,7 @@
   <div id="page2">
   <a id="current_projects"></a>
     <div class="my_container">
-      <h2><strong>Latest Work/</strong></h2>
+      <h2 class="my_title"><strong>Latest Work/</strong></h2>
       <div class="row">
         <h3 class="title">Rainbow Mural</h3>
         <div class="col-md-1"></div>
@@ -38,6 +38,7 @@
         </div>
         <div class="col-md-5">
           <a href="http://kiseki.herokuapp.com" target="_blank" class="img_bg"><img src="images/kiseki_profile.png"></a>
+          <br>
           <a href="https://github.com/therezajs/CodingDojo/tree/master/projects/Mixi" target="_blank" class="height-sm"><span class="glyphicon glyphicon-hand-right"></span> source code</a>
         </div>
       </div>
