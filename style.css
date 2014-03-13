@@ -124,6 +124,7 @@ footer a:hover {
 .img_bg img {
 	width: 470px;
 	height: 280px;
+	margin: 0 auto;
 }
 .height-sm span {
 	padding-top: 5px;
